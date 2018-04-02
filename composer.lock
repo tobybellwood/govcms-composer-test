@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "49eb594e5e13b1a29fea6194984374df",
+    "content-hash": "d98f2bd7d7dec7eadaabc58ce226a144",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -24,44 +24,6 @@
                 "bower-asset/underscore": ">=1.8.3"
             },
             "type": "bower-asset"
-        },
-        {
-            "name": "bower-asset/chosen",
-            "version": "v1.8.2",
-            "source": {
-                "type": "git",
-                "url": "git@github.com:harvesthq/bower-chosen.git",
-                "reference": "1423a33bf7da8b0dc5b30aae857a2d91e4a87932"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/harvesthq/bower-chosen/zipball/1423a33bf7da8b0dc5b30aae857a2d91e4a87932",
-                "reference": "1423a33bf7da8b0dc5b30aae857a2d91e4a87932",
-                "shasum": null
-            },
-            "type": "bower-asset",
-            "license": [
-                "https://github.com/harvesthq/chosen/blob/master/LICENSE.md"
-            ]
-        },
-        {
-            "name": "bower-asset/ckeditor",
-            "version": "4.5.9",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/ckeditor/ckeditor-releases.git",
-                "reference": "e3d4dba95343f1b33d8d9a08b78cd080efa0cdc1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/ckeditor/ckeditor-releases/zipball/e3d4dba95343f1b33d8d9a08b78cd080efa0cdc1",
-                "reference": "e3d4dba95343f1b33d8d9a08b78cd080efa0cdc1",
-                "shasum": null
-            },
-            "type": "bower-asset",
-            "license": [
-                "For licensing, see LICENSE.md or http://ckeditor.com/license."
-            ]
         },
         {
             "name": "bower-asset/jquery",
@@ -135,6 +97,47 @@
                 "shasum": null
             },
             "type": "bower-asset"
+        },
+        {
+            "name": "ckeditor/ckeditor",
+            "version": "4.5.9",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ckeditor/ckeditor-releases.git",
+                "reference": "e3d4dba95343f1b33d8d9a08b78cd080efa0cdc1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ckeditor/ckeditor-releases/zipball/e3d4dba95343f1b33d8d9a08b78cd080efa0cdc1",
+                "reference": "e3d4dba95343f1b33d8d9a08b78cd080efa0cdc1",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+",
+                "LGPL-2.1+",
+                "MPL-1.1+"
+            ],
+            "authors": [
+                {
+                    "name": "CKSource",
+                    "homepage": "http://cksource.com"
+                }
+            ],
+            "description": "JavaScript WYSIWYG web text editor.",
+            "homepage": "http://ckeditor.com",
+            "keywords": [
+                "CKEditor",
+                "editor",
+                "fckeditor",
+                "html",
+                "javascript",
+                "richtext",
+                "text",
+                "wysiwyg"
+            ],
+            "time": "2016-05-12T15:38:49+00:00"
         },
         {
             "name": "composer/installers",
@@ -3814,6 +3817,64 @@
             "homepage": "https://www.drupal.org/project/google_chart_tools",
             "support": {
                 "source": "http://cgit.drupalcode.org/google_chart_tools"
+            }
+        },
+        {
+            "name": "drupal/govcms",
+            "version": "2.17.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupal.org/project/govcms",
+                "reference": "7.x-2.17"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/govcms-7.x-2.17-core.zip",
+                "reference": "7.x-2.17",
+                "shasum": "dcbb2da2b4a4ea78bb1194266e503e016cc42fe3"
+            },
+            "require": {
+                "drupal/drupal": "~7.0"
+            },
+            "type": "drupal-profile",
+            "extra": {
+                "branch-alias": {
+                    "dev-2.x": "2.x-dev"
+                },
+                "drupal": {
+                    "version": "7.x-2.17",
+                    "datestamp": "1522267080",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/7/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Josh Waihi",
+                    "homepage": "https://www.drupal.org/user/188162"
+                },
+                {
+                    "name": "govcms",
+                    "homepage": "https://www.drupal.org/user/3141265"
+                },
+                {
+                    "name": "tobybellwood",
+                    "homepage": "https://www.drupal.org/user/3529537"
+                },
+                {
+                    "name": "wiifm",
+                    "homepage": "https://www.drupal.org/user/358731"
+                }
+            ],
+            "homepage": "https://www.drupal.org/project/govcms",
+            "support": {
+                "source": "http://cgit.drupalcode.org/govcms"
             }
         },
         {
@@ -7963,11 +8024,17 @@
         },
         {
             "name": "drupal/spamspan",
-            "version": "dev-1.x",
+            "version": "1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/spamspan",
-                "reference": "cebf9dd3a360b466b498755fe800580e6b215646"
+                "reference": "7.x-1.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/spamspan-7.x-1.3.zip",
+                "reference": "7.x-1.3",
+                "shasum": "292ec6eb589ee75f27763a517a5fdc0f6fb94e28"
             },
             "require": {
                 "drupal/drupal": "*"
@@ -7978,11 +8045,11 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.3+2-dev",
-                    "datestamp": "1495874585",
+                    "version": "7.x-1.3",
+                    "datestamp": "1483453443",
                     "security-coverage": {
-                        "status": "not-covered",
-                        "message": "Dev releases are not covered by Drupal security advisories."
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
                     }
                 }
             },
@@ -8008,8 +8075,7 @@
             "homepage": "https://www.drupal.org/project/spamspan",
             "support": {
                 "source": "http://cgit.drupalcode.org/spamspan"
-            },
-            "time": "2015-04-27T06:19:39+00:00"
+            }
         },
         {
             "name": "drupal/strongarm",
@@ -9593,11 +9659,17 @@
         },
         {
             "name": "drupal/wysiwyg",
-            "version": "dev-2.x",
+            "version": "2.4.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/wysiwyg",
-                "reference": "4efd47771a7fce77eb0364c747e3c76a6a65c460"
+                "reference": "7.x-2.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/wysiwyg-7.x-2.4.zip",
+                "reference": "7.x-2.4",
+                "shasum": "aa3b0666b3763cd50c174f9be95374b1067b2457"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -9608,11 +9680,11 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.4+1-dev",
-                    "datestamp": "1494268085",
+                    "version": "7.x-2.4",
+                    "datestamp": "1493674442",
                     "security-coverage": {
-                        "status": "not-covered",
-                        "message": "Dev releases are not covered by Drupal security advisories."
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
                     }
                 }
             },
@@ -9634,8 +9706,7 @@
             "homepage": "https://www.drupal.org/project/wysiwyg",
             "support": {
                 "source": "http://cgit.drupalcode.org/wysiwyg"
-            },
-            "time": "2015-06-03T19:15:05+00:00"
+            }
         },
         {
             "name": "drupal/wysiwyg_abbr",
@@ -9896,15 +9967,18 @@
             "notification-url": "https://packagist.org/downloads/"
         },
         {
-            "name": "profile/govcms",
-            "version": "2.17",
+            "name": "npm-asset/chosen-js",
+            "version": "1.8.2",
             "dist": {
-                "type": "zip",
-                "url": "https://github.com/govCMS/govCMS/archive/7.x-2.17.zip",
+                "type": "tar",
+                "url": "https://registry.npmjs.org/chosen-js/-/chosen-js-1.8.2.tgz",
                 "reference": null,
                 "shasum": null
             },
-            "type": "drupal-profile"
+            "type": "npm-asset",
+            "license": [
+                "MIT"
+            ]
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -13194,11 +13268,9 @@
         "drupal/paragraphs": 5,
         "drupal/phone": 10,
         "drupal/redirect": 5,
-        "drupal/spamspan": 20,
         "drupal/token_tweaks": 20,
         "drupal/uuid_features": 5,
         "drupal/views_datasource": 15,
-        "drupal/wysiwyg": 20,
         "drupal/wysiwyg_filter": 5
     },
     "prefer-stable": false,
