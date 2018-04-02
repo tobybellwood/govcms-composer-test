@@ -1,0 +1,6 @@
+# Ignore drupal core.
+docroot/
+
+# Composer vendor
+vendor/
+vendor/.git
