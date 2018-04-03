@@ -33,7 +33,7 @@
     "drupal/chosen": "2.1",
     "drupal/clamav": "1.0",
     "drupal/node_clone": "1.0",
-    "drupal/context": "3.6",
+    "drupal/context": "3.7.0",
     "drupal/crumbs": "2.3",
     "drupal/facetapi": "1.5",
     "drupal/date": "2.9",
