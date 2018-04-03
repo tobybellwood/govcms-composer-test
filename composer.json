@@ -156,7 +156,7 @@
     "drupal/shiny": "1.7",
     "drupal/zen": "5.5",
     "ckeditor/ckeditor": "4.9.1",
-    "mehrpadin/superfish": "1.0",
+    "mehrpadin/superfish": "2.1",
     "swiftmailer/swiftmailer" : "5.4.9",
     "bower-asset/backbone": "1.3.3",
     "bower-asset/jquery-placeholder": "2.3.1",
