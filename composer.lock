@@ -5,7 +5,9 @@
         "This file is @generated automatically"
     ],
 
-    "content-hash": "2d89e9a18e3b4d9176df0285aa90bf3c",
+
+    "content-hash": "abeac4a1f9c208436ea7aeebcbf907ed",
+
 
     "packages": [
         {
@@ -8778,17 +8780,17 @@
         },
         {
             "name": "drupal/viewfield",
-            "version": "2.0.0",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/viewfield",
-                "reference": "7.x-2.0"
+                "reference": "7.x-2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/viewfield-7.x-2.0.zip",
-                "reference": "7.x-2.0",
-                "shasum": "88969bd9cdfcb5d4f9f465600fdeceb464e713fb"
+                "url": "https://ftp.drupal.org/files/projects/viewfield-7.x-2.1.zip",
+                "reference": "7.x-2.1",
+                "shasum": "1740ee33acb7595b5dfb83638fdafb8e23fe60b0"
             },
             "require": {
                 "drupal/drupal": "~7.0",
@@ -8800,7 +8802,7 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.0",
+                    "version": "7.x-2.1",
                     "datestamp": "1485381183",
                     "security-coverage": {
                         "status": "covered",
