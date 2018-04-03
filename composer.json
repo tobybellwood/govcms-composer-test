@@ -155,7 +155,7 @@
     "drupal/xmlsitemap": "2.3",
     "drupal/shiny": "1.7",
     "drupal/zen": "5.5",
-    "ckeditor/ckeditor": "4.5.9",
+    "ckeditor/ckeditor": "4.9.1",
     "mehrpadin/superfish": "1.0",
     "swiftmailer/swiftmailer" : "5.4.9",
     "bower-asset/backbone": "1.3.3",
