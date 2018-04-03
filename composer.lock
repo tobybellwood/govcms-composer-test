@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d7a2c5b73fa66fc22ae6106e6f18954e",
+    "content-hash": "2d89e9a18e3b4d9176df0285aa90bf3c",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -9818,20 +9818,30 @@
         },
         {
             "name": "mehrpadin/superfish",
-            "version": "1.0",
+            "version": "2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mehrpadin/Superfish-for-Drupal.git",
-                "reference": "133bdfc475403d649b492a46aedcc13f79b3161d"
+                "reference": "80a0a484b727e9fbe6b0ee609f80e10e5e158683"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mehrpadin/Superfish-for-Drupal/zipball/133bdfc475403d649b492a46aedcc13f79b3161d",
-                "reference": "133bdfc475403d649b492a46aedcc13f79b3161d",
+                "url": "https://api.github.com/repos/mehrpadin/Superfish-for-Drupal/zipball/80a0a484b727e9fbe6b0ee609f80e10e5e158683",
+                "reference": "80a0a484b727e9fbe6b0ee609f80e10e5e158683",
                 "shasum": ""
             },
-            "type": "library",
-            "notification-url": "https://packagist.org/downloads/"
+            "type": "drupal-library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Superfish library for the Drupal Superfish module.",
+            "homepage": "https://github.com/mehrpadin/Superfish-for-Drupal",
+            "keywords": [
+                "jquery",
+                "plugin"
+            ],
+            "time": "2017-05-30T13:00:18+00:00"
         },
         {
             "name": "npm-asset/chosen-js",
