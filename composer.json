@@ -67,7 +67,7 @@
     "drupal/govcms_dlm": "1.0",
     "drupal/gss": "1.11",
     "drupal/hierarchical_select": "3.0-beta7",
-    "drupal/honeypot": "1.22",
+    "drupal/honeypot": "1.24.0",
     "drupal/panels": "3.9",
     "drupal/image_link_formatter": "1.0",
     "drupal/job_scheduler": "2.0-alpha3",
