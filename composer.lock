@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "cbe81452ea0a06bc6966a3831f940842",
+    "content-hash": "867cde81a1d01f99d274b9b9351b8879",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -8126,17 +8126,17 @@
         },
         {
             "name": "drupal/toc_filter",
-            "version": "1.2.0",
+            "version": "1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/toc_filter",
-                "reference": "7.x-1.2"
+                "reference": "7.x-1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/toc_filter-7.x-1.2.zip",
-                "reference": "7.x-1.2",
-                "shasum": "1005aa1bb73f6efaf3f971ded78a4b7fa56dfa83"
+                "url": "https://ftp.drupal.org/files/projects/toc_filter-7.x-1.3.zip",
+                "reference": "7.x-1.3",
+                "shasum": "4190e2e3aa8c99851467a4f420b9a5a8124249d3"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -8147,8 +8147,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.2",
-                    "datestamp": "1449797940",
+                    "version": "7.x-1.3",
+                    "datestamp": "1449798807",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
