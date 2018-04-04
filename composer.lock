@@ -4,9 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-
-    "content-hash": "15cade911f4ae3359bf0dec1b5b36eb0",
-
+    "content-hash": "de4029623d31c086242dfbf98624b6b1",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -4134,17 +4132,17 @@
         },
         {
             "name": "drupal/job_scheduler",
-            "version": "2.0.0-alpha3",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/job_scheduler",
-                "reference": "7.x-2.0-alpha3"
+                "reference": "7.x-2.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/job_scheduler-7.x-2.0-alpha3.zip",
-                "reference": "7.x-2.0-alpha3",
-                "shasum": "abb01dbad7a74a494982f06308486518ffbc70b2"
+                "url": "https://ftp.drupal.org/files/projects/job_scheduler-7.x-2.0.zip",
+                "reference": "7.x-2.0",
+                "shasum": "9044daeeeeff227804a578c44b25390f6df13a2e"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -4155,7 +4153,7 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.0-alpha3",
+                    "version": "7.x-2.0",
                     "datestamp": "1518514084",
                     "security-coverage": {
                         "status": "not-covered",
@@ -13141,7 +13139,6 @@
         "drupal/focal_point": 10,
         "drupal/funnelback": 10,
         "drupal/hierarchical_select": 10,
-        "drupal/job_scheduler": 15,
         "drupal/minisite": 15,
         "drupal/paragraphs": 5,
         "drupal/phone": 10,

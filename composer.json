@@ -70,7 +70,7 @@
     "drupal/honeypot": "1.24.0",
     "drupal/panels": "3.9",
     "drupal/image_link_formatter": "1.1.0",
-    "drupal/job_scheduler": "2.0-alpha3",
+    "drupal/job_scheduler": "2.0.0",
     "drupal/libraries": "2.3",
     "drupal/link": "1.4.0",
     "drupal/linkchecker": "1.3.0",
