@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4d7df9b736af6c739f7e11364e9c5b2c",
+    "content-hash": "000b463b13b2feabf60f25446829cd6e",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -7132,17 +7132,17 @@
         },
         {
             "name": "drupal/search_api_acquia",
-            "version": "2.3.0",
+            "version": "2.4.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/search_api_acquia",
-                "reference": "7.x-2.3"
+                "reference": "7.x-2.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/search_api_acquia-7.x-2.3.zip",
-                "reference": "7.x-2.3",
-                "shasum": "ae54aa734e99144ab5e2a11c4b8b39516b150e19"
+                "url": "https://ftp.drupal.org/files/projects/search_api_acquia-7.x-2.4.zip",
+                "reference": "7.x-2.4",
+                "shasum": "0f76956fc86b3fa3eff2c1e76dec2611dfbad790"
             },
             "require": {
                 "drupal/acquia_agent": "*",
@@ -7155,7 +7155,7 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.3",
+                    "version": "7.x-2.4",
                     "datestamp": "1507844343",
                     "security-coverage": {
                         "status": "covered",
