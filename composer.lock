@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c6227b9ae7dbd23fb6d4c84ba4f8b644",
+    "content-hash": "8f530e774895fba70b3d44ad741bfcbd",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -2667,17 +2667,17 @@
         },
         {
             "name": "drupal/favicon",
-            "version": "1.0.0-rc2",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/favicon",
-                "reference": "7.x-1.0-rc2"
+                "reference": "7.x-2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/favicon-7.x-1.0-rc2.zip",
-                "reference": "7.x-1.0-rc2",
-                "shasum": "b219cf9f9a6064fe999c7be3de1f53da93c97042"
+                "url": "https://ftp.drupal.org/files/projects/favicon-7.x-2.1.zip",
+                "reference": "7.x-2.1",
+                "shasum": "ac30ee73e590052788ffb4e1c95554d81c007737"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -2685,14 +2685,14 @@
             "type": "drupal-module",
             "extra": {
                 "branch-alias": {
-                    "dev-1.x": "1.x-dev"
+                    "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.0-rc2",
-                    "datestamp": "1409254042",
+                    "version": "7.x-2.1",
+                    "datestamp": "1419350581",
                     "security-coverage": {
-                        "status": "not-covered",
-                        "message": "RC releases are not covered by Drupal security advisories."
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
                     }
                 }
             },
@@ -2722,7 +2722,6 @@
                     "homepage": "https://www.drupal.org/user/25701"
                 }
             ],
-            "description": "Requests to /favicon.ico return the site's actual favicon.",
             "homepage": "https://www.drupal.org/project/favicon",
             "support": {
                 "source": "http://cgit.drupalcode.org/favicon"
@@ -13134,7 +13133,6 @@
         "drupal/agls": 10,
         "drupal/defaultconfig": 15,
         "drupal/defaultcontent": 15,
-        "drupal/favicon": 5,
         "drupal/feeds": 10,
         "drupal/funnelback": 10,
         "drupal/hierarchical_select": 10,

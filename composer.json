@@ -48,7 +48,7 @@
     "drupal/entityreference": "1.5",
     "drupal/escape_admin": "1.2",
     "drupal/event_log": "1.6.0",
-    "drupal/favicon": "1.0-rc2",
+    "drupal/favicon": "2.1.0",
     "drupal/features": "2.10.0",
     "drupal/feeds": "2.0-beta3",
     "drupal/feeds_tamper": "1.1",
