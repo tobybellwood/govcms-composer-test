@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "dbf503909e7bb424b60ce5a553f11e46",
+    "content-hash": "3980a0bb2ba82cd4be9a20135ebbe0ad",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -1390,17 +1390,17 @@
         },
         {
             "name": "drupal/crumbs",
-            "version": "2.3.0",
+            "version": "2.6.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/crumbs",
-                "reference": "7.x-2.3"
+                "reference": "7.x-2.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/crumbs-7.x-2.3.zip",
-                "reference": "7.x-2.3",
-                "shasum": "6626ed017b55555724d620c93ee23606a94aa640"
+                "url": "https://ftp.drupal.org/files/projects/crumbs-7.x-2.6.zip",
+                "reference": "7.x-2.6",
+                "shasum": "b97c08db51ace368363ffa3eecc4e8c2d1c1fa67"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -1414,8 +1414,8 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.3",
-                    "datestamp": "1459362539",
+                    "version": "7.x-2.6",
+                    "datestamp": "1506737944",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
