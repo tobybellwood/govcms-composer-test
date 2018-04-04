@@ -54,7 +54,7 @@
     "drupal/feeds_tamper": "1.1",
     "drupal/field_group": "1.6.0",
     "drupal/field_redirection": "2.6",
-    "drupal/file_entity": "2.12",
+    "drupal/file_entity": "2.17.0",
     "drupal/file_lock": "2.0",
     "drupal/picture": "2.13",
     "drupal/flood_control": "1.0",
