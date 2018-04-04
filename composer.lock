@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "6a8e8ba3cee16c0e9ccf32da7e470e42",
+    "content-hash": "1bfcbe5586d9cc8432a48f9fb012a025",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -592,17 +592,17 @@
         },
         {
             "name": "drupal/addressfield",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/addressfield",
-                "reference": "7.x-1.1"
+                "reference": "7.x-1.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/addressfield-7.x-1.1.zip",
-                "reference": "7.x-1.1",
-                "shasum": "dd46ac6a2f1b06298b633e934fe1d70d0ca0d410"
+                "url": "https://ftp.drupal.org/files/projects/addressfield-7.x-1.2.zip",
+                "reference": "7.x-1.2",
+                "shasum": "7397156875aa0749cd43664556695de4f9cf4e5d"
             },
             "require": {
                 "drupal/ctools": "*",
@@ -617,7 +617,7 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.1",
+                    "version": "7.x-1.2",
                     "datestamp": "1444253039",
                     "security-coverage": {
                         "status": "covered",
