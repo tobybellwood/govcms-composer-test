@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "7c0c45b3a67bf2c4a7710b593a0982f7",
+    "content-hash": "bc986a3c2da0afcf1d2ad073e0dd4c9e",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -3310,17 +3310,17 @@
         },
         {
             "name": "drupal/focal_point",
-            "version": "1.0.0-beta4",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/focal_point",
-                "reference": "7.x-1.0-beta4"
+                "reference": "7.x-1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/focal_point-7.x-1.0-beta4.zip",
-                "reference": "7.x-1.0-beta4",
-                "shasum": "2574950213a4fae7c476b2f85c82a57e66b03ad2"
+                "url": "https://ftp.drupal.org/files/projects/focal_point-7.x-1.1.zip",
+                "reference": "7.x-1.1",
+                "shasum": "385fee76cfdaf2fdcbc90df1a729e4db32f67028"
             },
             "require": {
                 "drupal/drupal": "*",
@@ -3332,11 +3332,11 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.0-beta4",
-                    "datestamp": "1453214939",
+                    "version": "7.x-1.1",
+                    "datestamp": "1505151243",
                     "security-coverage": {
-                        "status": "not-covered",
-                        "message": "Beta releases are not covered by Drupal security advisories."
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
                     }
                 }
             },
@@ -13136,7 +13136,6 @@
         "drupal/defaultcontent": 15,
         "drupal/favicon": 5,
         "drupal/feeds": 10,
-        "drupal/focal_point": 10,
         "drupal/funnelback": 10,
         "drupal/hierarchical_select": 10,
         "drupal/minisite": 15,
