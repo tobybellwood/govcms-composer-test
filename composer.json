@@ -133,7 +133,7 @@
     "drupal/token_tweaks": "1.x-dev#75818fbfb97bf8882ca106e6af703be7644b11bb",
     "drupal/transliteration": "3.2",
     "drupal/twitter_block": "2.3",
-    "drupal/username_enumeration_prevention": "1.0",
+    "drupal/username_enumeration_prevention": "1.2.0",
     "drupal/userprotect": "1.2",
     "drupal/uuid": "1.0",
     "drupal/uuid_features": "1.0-rc1",
