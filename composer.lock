@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "755fac9944c755bc842fcf8763cef9c9",
+    "content-hash": "eaf2f45687b5fcd58595554a4a59a2b2",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -3425,17 +3425,17 @@
         },
         {
             "name": "drupal/globalredirect",
-            "version": "1.5.0",
+            "version": "1.6.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/globalredirect",
-                "reference": "7.x-1.5"
+                "reference": "7.x-1.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/globalredirect-7.x-1.5.zip",
-                "reference": "7.x-1.5",
-                "shasum": "d4cd9b572248b1607a27aaa4c1fe8f93f45ab75a"
+                "url": "https://ftp.drupal.org/files/projects/globalredirect-7.x-1.6.zip",
+                "reference": "7.x-1.6",
+                "shasum": "28a747bce42d60937ff9db3a0d1ee421b492b1c7"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -3446,7 +3446,7 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.5",
+                    "version": "7.x-1.6",
                     "datestamp": "1518719580",
                     "security-coverage": {
                         "status": "covered",
