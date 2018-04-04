@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "01cebe56f96a0b05ee5f8d3299c00232",
+    "content-hash": "cb9304026a5aa609b695bd9db69d5453",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -1852,17 +1852,17 @@
         },
         {
             "name": "drupal/diff",
-            "version": "3.2.0",
+            "version": "3.3.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/diff",
-                "reference": "7.x-3.2"
+                "reference": "7.x-3.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/diff-7.x-3.2.zip",
-                "reference": "7.x-3.2",
-                "shasum": "29880d882125b25ad9c68a213b4a3a5a7ccc8f81"
+                "url": "https://ftp.drupal.org/files/projects/diff-7.x-3.3.zip",
+                "reference": "7.x-3.3",
+                "shasum": "177ff52882593537c20c3a4df340a390726c86b2"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -1873,7 +1873,7 @@
                     "dev-3.x": "3.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-3.2",
+                    "version": "7.x-3.3",
                     "datestamp": "1482211683",
                     "security-coverage": {
                         "status": "covered",
