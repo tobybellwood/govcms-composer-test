@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4d7df9b736af6c739f7e11364e9c5b2c",
+    "content-hash": "15cade911f4ae3359bf0dec1b5b36eb0",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -2528,17 +2528,17 @@
         },
         {
             "name": "drupal/event_log",
-            "version": "1.4.0",
+            "version": "1.6.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/event_log",
-                "reference": "7.x-1.4"
+                "reference": "7.x-1.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/event_log-7.x-1.4.zip",
-                "reference": "7.x-1.4",
-                "shasum": "c7806d634696edc270eb3328b2bf69806e8cade2"
+                "url": "https://ftp.drupal.org/files/projects/event_log-7.x-1.6.zip",
+                "reference": "7.x-1.6",
+                "shasum": "ce9ee378cb943b05c0dbf6f61b91708d27d9b58b"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -2549,8 +2549,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.4",
-                    "datestamp": "1430996881",
+                    "version": "7.x-1.6",
+                    "datestamp": "1484645884",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
