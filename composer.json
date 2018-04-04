@@ -129,7 +129,7 @@
     "drupal/superfish": "2.0.0",
     "drupal/swiftmailer": "1.7",
     "drupal/toc_filter": "1.3.0",
-    "drupal/token": "1.6",
+    "drupal/token": "1.7.0",
     "drupal/token_tweaks": "1.x-dev#75818fbfb97bf8882ca106e6af703be7644b11bb",
     "drupal/transliteration": "3.2",
     "drupal/twitter_block": "2.3",

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "69509f6f103a567f436b078d3cf332c9",
+    "content-hash": "72f8063b43a5bae4bd6e1d7f50fb6a1c",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -8173,17 +8173,17 @@
         },
         {
             "name": "drupal/token",
-            "version": "1.6.0",
+            "version": "1.7.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/token",
-                "reference": "7.x-1.6"
+                "reference": "7.x-1.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/token-7.x-1.6.zip",
-                "reference": "7.x-1.6",
-                "shasum": "8b45fe9e57a09629559776175ae2ce0840aeec97"
+                "url": "https://ftp.drupal.org/files/projects/token-7.x-1.7.zip",
+                "reference": "7.x-1.7",
+                "shasum": "433827b79b944c05e38d144c9b95e5494116ff67"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -8194,7 +8194,7 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.6",
+                    "version": "7.x-1.7",
                     "datestamp": "1485316084",
                     "security-coverage": {
                         "status": "covered",
