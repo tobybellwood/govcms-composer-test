@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "1bfcbe5586d9cc8432a48f9fb012a025",
+    "content-hash": "755fac9944c755bc842fcf8763cef9c9",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -5075,17 +5075,17 @@
         },
         {
             "name": "drupal/menu_block",
-            "version": "2.6.0",
+            "version": "2.7.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/menu_block",
-                "reference": "7.x-2.6"
+                "reference": "7.x-2.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/menu_block-7.x-2.6.zip",
-                "reference": "7.x-2.6",
-                "shasum": "c9f76214f7a6c74adbbd0d8969edeeac6a411f33"
+                "url": "https://ftp.drupal.org/files/projects/menu_block-7.x-2.7.zip",
+                "reference": "7.x-2.7",
+                "shasum": "aaf9080530d39a5d8924dbd3f60a135d9a5b06fa"
             },
             "require": {
                 "drupal/drupal": "^7.12"
@@ -5096,7 +5096,7 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.6",
+                    "version": "7.x-2.7",
                     "datestamp": "1435675672",
                     "security-coverage": {
                         "status": "covered",
