@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "a3c9ca970ff0f7b643cb334476f6dcbb",
+    "content-hash": "b7c918e6c7628c377709413142332046",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -8023,17 +8023,17 @@
         },
         {
             "name": "drupal/superfish",
-            "version": "1.9.0",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/superfish",
-                "reference": "7.x-1.9"
+                "reference": "7.x-2.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/superfish-7.x-1.9.zip",
-                "reference": "7.x-1.9",
-                "shasum": "f978939df1828dc4d89c9e4a7a4f8000689283d5"
+                "url": "https://ftp.drupal.org/files/projects/superfish-7.x-2.0.zip",
+                "reference": "7.x-2.0",
+                "shasum": "f5bdf7ecd8a2b30e139aa8028184a577eea58c6d"
             },
             "require": {
                 "drupal/drupal": "*"
@@ -8041,11 +8041,11 @@
             "type": "drupal-module",
             "extra": {
                 "branch-alias": {
-                    "dev-1.x": "1.x-dev"
+                    "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.9",
-                    "datestamp": "1448381675",
+                    "version": "7.x-2.0",
+                    "datestamp": "1448444941",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
