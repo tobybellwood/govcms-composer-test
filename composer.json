@@ -137,7 +137,7 @@
     "drupal/userprotect": "1.2",
     "drupal/uuid": "1.0",
     "drupal/uuid_features": "1.0-rc1",
-    "drupal/video_filter": "3.3",
+    "drupal/video_filter": "3.4.0",
     "drupal/view_unpublished": "1.2",
     "drupal/viewfield": "2.1.0",
     "drupal/views": "3.17",

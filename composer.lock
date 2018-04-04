@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "bc986a3c2da0afcf1d2ad073e0dd4c9e",
+    "content-hash": "0444a638c7ed6892a6a8b107bb101a17",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -8658,17 +8658,17 @@
         },
         {
             "name": "drupal/video_filter",
-            "version": "3.3.0",
+            "version": "3.4.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/video_filter",
-                "reference": "7.x-3.3"
+                "reference": "7.x-3.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/video_filter-7.x-3.3.zip",
-                "reference": "7.x-3.3",
-                "shasum": "bbe0d84145adc20098098dcbce23cba1056725b9"
+                "url": "https://ftp.drupal.org/files/projects/video_filter-7.x-3.4.zip",
+                "reference": "7.x-3.4",
+                "shasum": "8987731d20673297685ed107de5a631858725b3f"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -8679,7 +8679,7 @@
                     "dev-3.x": "3.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-3.3",
+                    "version": "7.x-3.4",
                     "datestamp": "1464823439",
                     "security-coverage": {
                         "status": "covered",
