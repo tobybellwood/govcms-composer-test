@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "eaf2f45687b5fcd58595554a4a59a2b2",
+    "content-hash": "a3c9ca970ff0f7b643cb334476f6dcbb",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -3100,17 +3100,17 @@
         },
         {
             "name": "drupal/file_entity",
-            "version": "2.12.0",
+            "version": "2.17.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/file_entity",
-                "reference": "7.x-2.12"
+                "reference": "7.x-2.17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/file_entity-7.x-2.12.zip",
-                "reference": "7.x-2.12",
-                "shasum": "b722da14cc16ae739a6a878ca8cf635e5906697b"
+                "url": "https://ftp.drupal.org/files/projects/file_entity-7.x-2.17.zip",
+                "reference": "7.x-2.17",
+                "shasum": "7eebb73b40d40702d099d737956a43842afaeaf2"
             },
             "require": {
                 "drupal/ctools": "*",
@@ -3126,8 +3126,8 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.12",
-                    "datestamp": "1515331686",
+                    "version": "7.x-2.17",
+                    "datestamp": "1522617782",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"
