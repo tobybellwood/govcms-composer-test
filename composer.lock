@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "dd469ea1b474009cc501c59eee6ed1fc",
+    "content-hash": "d06437f8ef4d8549278708892f5b9f83",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -7075,17 +7075,17 @@
         },
         {
             "name": "drupal/search_api",
-            "version": "1.22.0",
+            "version": "1.24.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/search_api",
-                "reference": "7.x-1.22"
+                "reference": "7.x-1.24"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/search_api-7.x-1.22.zip",
-                "reference": "7.x-1.22",
-                "shasum": "9f6f1530383efae25c02dcce39763f0280b6bbad"
+                "url": "https://ftp.drupal.org/files/projects/search_api-7.x-1.24.zip",
+                "reference": "7.x-1.24",
+                "shasum": "ef56128c64001a8e43f3897b08485ce944ce3e5b"
             },
             "require": {
                 "drupal/drupal": "~7.0",
@@ -7101,8 +7101,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.22",
-                    "datestamp": "1522521480",
+                    "version": "7.x-1.24",
+                    "datestamp": "1522913884",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
