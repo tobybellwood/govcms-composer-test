@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d960ef271a42d5917b47cc08bb1bc2ac",
+    "content-hash": "dd469ea1b474009cc501c59eee6ed1fc",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -9844,10 +9844,10 @@
         },
         {
             "name": "npm-asset/chosen-js",
-            "version": "1.8.2",
+            "version": "1.8.3",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/chosen-js/-/chosen-js-1.8.2.tgz",
+                "url": "https://registry.npmjs.org/chosen-js/-/chosen-js-1.8.3.tgz",
                 "reference": null,
                 "shasum": null
             },
