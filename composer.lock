@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d06437f8ef4d8549278708892f5b9f83",
+    "content-hash": "256d56145c668dd64b4b2fc10e1659f1",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -7539,17 +7539,17 @@
         },
         {
             "name": "drupal/services_views",
-            "version": "1.2.0",
+            "version": "1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/services_views",
-                "reference": "7.x-1.2"
+                "reference": "7.x-1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/services_views-7.x-1.2.zip",
-                "reference": "7.x-1.2",
-                "shasum": "a527ad3b742f92c7023e4107f391797fd4c250f9"
+                "url": "https://ftp.drupal.org/files/projects/services_views-7.x-1.3.zip",
+                "reference": "7.x-1.3",
+                "shasum": "5b20916e18e6ff0fd86389fabc202fb785304a0d"
             },
             "require": {
                 "drupal/drupal": "~7.0",
@@ -7562,8 +7562,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.2",
-                    "datestamp": "1512141185",
+                    "version": "7.x-1.3",
+                    "datestamp": "1512152191",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
