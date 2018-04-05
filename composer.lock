@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f3a52d92fb687d5dcd13409487c585bd",
+    "content-hash": "d02be4b4c93cc691daa21a32f769fe86",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -6742,17 +6742,17 @@
         },
         {
             "name": "drupal/robotstxt",
-            "version": "1.3.0",
+            "version": "1.4.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/robotstxt",
-                "reference": "7.x-1.3"
+                "reference": "7.x-1.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/robotstxt-7.x-1.3.zip",
-                "reference": "7.x-1.3",
-                "shasum": "469b47e0f272924e75e2e914ab937d5685f0f9be"
+                "url": "https://ftp.drupal.org/files/projects/robotstxt-7.x-1.4.zip",
+                "reference": "7.x-1.4",
+                "shasum": "4c2fc43fe49269be3698243b3b457e0aef345573"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -6763,7 +6763,7 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.3",
+                    "version": "7.x-1.4",
                     "datestamp": "1491149284",
                     "security-coverage": {
                         "status": "covered",
