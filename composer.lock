@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "b89c69469e6ca51d2f7e5501e68bc0f7",
+    "content-hash": "f3a52d92fb687d5dcd13409487c585bd",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -2345,17 +2345,17 @@
         },
         {
             "name": "drupal/entitycache",
-            "version": "1.2.0",
+            "version": "1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/entitycache",
-                "reference": "7.x-1.2"
+                "reference": "7.x-1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/entitycache-7.x-1.2.zip",
-                "reference": "7.x-1.2",
-                "shasum": "60f3a465f04eea3770d08fc60132e3f81f8df4ee"
+                "url": "https://ftp.drupal.org/files/projects/entitycache-7.x-1.5.zip",
+                "reference": "7.x-1.5",
+                "shasum": "ae6ec0739e5a3fbacabb54e05f08864b6e06a2b0"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -2366,8 +2366,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.2",
-                    "datestamp": "1445894339",
+                    "version": "7.x-1.5",
+                    "datestamp": "1446719510",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2396,7 +2396,6 @@
                     "homepage": "https://www.drupal.org/user/116305"
                 }
             ],
-            "description": "Provides caching for core entities including nodes and taxonomy terms.",
             "homepage": "https://www.drupal.org/project/entitycache",
             "support": {
                 "source": "http://cgit.drupalcode.org/entitycache"
