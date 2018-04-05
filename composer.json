@@ -51,7 +51,7 @@
     "drupal/favicon": "2.1.0",
     "drupal/features": "2.10.0",
     "drupal/feeds": "2.0-beta3",
-    "drupal/feeds_tamper": "1.1",
+    "drupal/feeds_tamper": "1.2.0",
     "drupal/field_group": "1.6.0",
     "drupal/field_redirection": "2.6",
     "drupal/file_entity": "2.17.0",
