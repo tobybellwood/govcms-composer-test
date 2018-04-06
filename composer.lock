@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "0bbbb691f56b2a2eef9571dbbde21e05",
+    "content-hash": "e5406dc59aff8ccf45c47ce2958c56ab",
     "packages": [
         {
             "name": "bower-asset/backbone",
@@ -5407,17 +5407,17 @@
         },
         {
             "name": "drupal/minisite",
-            "version": "1.0.0-alpha2",
+            "version": "1.0.0-alpha3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/minisite",
-                "reference": "7.x-1.0-alpha2"
+                "reference": "7.x-1.0-alpha3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/minisite-7.x-1.0-alpha2.zip",
-                "reference": "7.x-1.0-alpha2",
-                "shasum": "47fb4ef251ca8bca658153f41e94b4c9a0212b06"
+                "url": "https://ftp.drupal.org/files/projects/minisite-7.x-1.0-alpha3.zip",
+                "reference": "7.x-1.0-alpha3",
+                "shasum": "2f32e85bd3aba1353dbdeeb84e85d7e6519b2829"
             },
             "require": {
                 "drupal/drupal": "*"
@@ -5428,7 +5428,7 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.0-alpha2",
+                    "version": "7.x-1.0-alpha3",
                     "datestamp": "1486608484",
                     "security-coverage": {
                         "status": "not-covered",
@@ -7448,6 +7448,10 @@
                 {
                     "name": "jweowu",
                     "homepage": "https://www.drupal.org/user/152788"
+                },
+                {
+                    "name": "mcdruid",
+                    "homepage": "https://www.drupal.org/user/255969"
                 },
                 {
                     "name": "p0deje",
