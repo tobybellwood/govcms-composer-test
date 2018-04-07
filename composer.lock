@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "0fd6161d6420a3e6e73df6f276000e5f",
+    "content-hash": "1c6acf185d1fd267adec6bb66b781c04",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -2759,17 +2759,17 @@
         },
         {
             "name": "drupal/feeds",
-            "version": "2.0.0-beta3",
+            "version": "2.0.0-beta4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/feeds",
-                "reference": "7.x-2.0-beta3"
+                "reference": "7.x-2.0-beta4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/feeds-7.x-2.0-beta3.zip",
-                "reference": "7.x-2.0-beta3",
-                "shasum": "eb8001a4e130c8523dc1ae2f13ef4ad9925d80e3"
+                "url": "https://ftp.drupal.org/files/projects/feeds-7.x-2.0-beta4.zip",
+                "reference": "7.x-2.0-beta4",
+                "shasum": "195e5d0d3795f8f1981f8f83f5c0c7bc27d275a6"
             },
             "require": {
                 "drupal/ctools": "*",
@@ -2794,8 +2794,8 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.0-beta3",
-                    "datestamp": "1506257044",
+                    "version": "7.x-2.0-beta4",
+                    "datestamp": "1506437520",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"
