@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "1c6acf185d1fd267adec6bb66b781c04",
+    "content-hash": "fc381c83099bb29c6c2f8c9bc74d0417",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -3922,17 +3922,17 @@
         },
         {
             "name": "drupal/hierarchical_select",
-            "version": "3.0.0-beta7",
+            "version": "3.0.0-beta8",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/hierarchical_select",
-                "reference": "7.x-3.0-beta7"
+                "reference": "7.x-3.0-beta8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/hierarchical_select-7.x-3.0-beta7.zip",
-                "reference": "7.x-3.0-beta7",
-                "shasum": "4f9f18f672b527a73d1d41abf195c28143661c02"
+                "url": "https://ftp.drupal.org/files/projects/hierarchical_select-7.x-3.0-beta8.zip",
+                "reference": "7.x-3.0-beta8",
+                "shasum": "6fcc35f31caf8bf6d2badf6feeb0eeae3326ec4e"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -3949,7 +3949,7 @@
                     "dev-3.x": "3.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-3.0-beta7",
+                    "version": "7.x-3.0-beta8",
                     "datestamp": "1487167683",
                     "security-coverage": {
                         "status": "not-covered",
