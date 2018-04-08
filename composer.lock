@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d32cb29e316bf56c1b84bd76ae7f1214",
+    "content-hash": "c5cb5cd0440b08ca75e2a206e8c492a3",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -1937,6 +1937,69 @@
             "homepage": "https://www.drupal.org/project/diff",
             "support": {
                 "source": "http://cgit.drupalcode.org/diff"
+            }
+        },
+        {
+            "name": "drupal/drafty",
+            "version": "1.0.0-rc1",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupal.org/project/drafty",
+                "reference": "7.x-1.0-rc1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/drafty-7.x-1.0-rc1.zip",
+                "reference": "7.x-1.0-rc1",
+                "shasum": "a16bd4d25185bde62fe33bd13d069151ac81aa50"
+            },
+            "require": {
+                "drupal/drupal": "~7.0",
+                "drupal/entity": "*"
+            },
+            "require-dev": {
+                "drupal/entity_translation": "*",
+                "drupal/field_collection": "*",
+                "drupal/title": "*",
+                "drupal/workbench": "*",
+                "drupal/workbench_moderation": "*"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
+                "drupal": {
+                    "version": "7.x-1.0-rc1",
+                    "datestamp": "1510237987",
+                    "security-coverage": {
+                        "status": "not-covered",
+                        "message": "Project has not opted into security advisory coverage!"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/7/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "DamienMcKenna",
+                    "homepage": "https://www.drupal.org/user/108450"
+                },
+                {
+                    "name": "Fabianx",
+                    "homepage": "https://www.drupal.org/user/693738"
+                },
+                {
+                    "name": "catch",
+                    "homepage": "https://www.drupal.org/user/35733"
+                }
+            ],
+            "description": "Facilitates handling of draft revisions, aka forward revisions.",
+            "homepage": "https://www.drupal.org/project/drafty",
+            "support": {
+                "source": "http://cgit.drupalcode.org/drafty"
             }
         },
         {
@@ -9439,29 +9502,30 @@
         },
         {
             "name": "drupal/workbench_moderation",
-            "version": "1.4.0",
+            "version": "3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/workbench_moderation",
-                "reference": "7.x-1.4"
+                "reference": "7.x-3.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/workbench_moderation-7.x-1.4.zip",
-                "reference": "7.x-1.4",
-                "shasum": "36fefc90fafc2a5281e8349067716250abd62117"
+                "url": "https://ftp.drupal.org/files/projects/workbench_moderation-7.x-3.0.zip",
+                "reference": "7.x-3.0",
+                "shasum": "b24517a9ca7ab2c25ff3b5ba9041b1e76aa900b1"
             },
             "require": {
+                "drupal/drafty": "*",
                 "drupal/drupal": "~7.0"
             },
             "type": "drupal-module",
             "extra": {
                 "branch-alias": {
-                    "dev-1.x": "1.x-dev"
+                    "dev-3.x": "3.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.4",
-                    "datestamp": "1424188578",
+                    "version": "7.x-3.0",
+                    "datestamp": "1478119983",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
