@@ -167,7 +167,7 @@
     "npm-asset/modernizr": "2.8.3",
     "npm-asset/underscore": "1.8.3",
     "oomphinc/composer-installers-extender": "^1.1",
-    "swiftmailer/swiftmailer": "5.4.9"
+    "swiftmailer/swiftmailer": "6.0.2"
   },
   "require-dev": {
       "composer/composer": "^1.6",
