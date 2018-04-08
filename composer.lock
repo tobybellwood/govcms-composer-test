@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "fc381c83099bb29c6c2f8c9bc74d0417",
+    "content-hash": "d20f86ea469da233e2dd6af7c44a6c5b",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -4315,17 +4315,17 @@
         },
         {
             "name": "drupal/linkchecker",
-            "version": "1.2.0",
+            "version": "1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/linkchecker",
-                "reference": "7.x-1.2"
+                "reference": "7.x-1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/linkchecker-7.x-1.2.zip",
-                "reference": "7.x-1.2",
-                "shasum": "0c00cea433edfeac5ca9ab434f12b19e3c48ef89"
+                "url": "https://ftp.drupal.org/files/projects/linkchecker-7.x-1.3.zip",
+                "reference": "7.x-1.3",
+                "shasum": "2ce8ff73d01e9638a220aefddbfd73b26682172b"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -4336,7 +4336,7 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.2",
+                    "version": "7.x-1.3",
                     "datestamp": "1470438839",
                     "security-coverage": {
                         "status": "covered",
