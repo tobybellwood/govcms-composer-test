@@ -35,7 +35,7 @@
     "drupal/crumbs": "2.6.0",
     "drupal/ctools": "1.12",
     "drupal/date": "2.9",
-    "drupal/defaultconfig": "1.0-alpha9",
+    "drupal/defaultconfig": "1.0.0-alpha11",
     "drupal/defaultcontent": "1.0-alpha9",
     "drupal/diff": "3.3.0",
     "drupal/draggableviews": "2.1",
