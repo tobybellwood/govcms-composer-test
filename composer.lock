@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c5cb5cd0440b08ca75e2a206e8c492a3",
+    "content-hash": "b4b694653d3414f2201a50559ea4bc6f",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -321,17 +321,17 @@
         },
         {
             "name": "drupal/accessible_forms",
-            "version": "1.0.0-alpha1",
+            "version": "1.0.0-alpha2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/accessible_forms",
-                "reference": "7.x-1.0-alpha1"
+                "reference": "7.x-1.0-alpha2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/accessible_forms-7.x-1.0-alpha1.zip",
-                "reference": "7.x-1.0-alpha1",
-                "shasum": "68c242dbb1fc6fe34a4c69cd57b6e25e578dde0a"
+                "url": "https://ftp.drupal.org/files/projects/accessible_forms-7.x-1.0-alpha2.zip",
+                "reference": "7.x-1.0-alpha2",
+                "shasum": "ed9c05c6ae42a1bff5d0d70510fc311af5380815"
             },
             "require": {
                 "composer/installers": "~1.0",
@@ -348,7 +348,7 @@
                     "dev-7.x-1.x": "7.1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.0-alpha1",
+                    "version": "7.x-1.0-alpha2",
                     "datestamp": "1434342180",
                     "security-coverage": {
                         "status": "not-covered",
