@@ -243,9 +243,6 @@
       "drupal/libraries": {
         "0": "https://www.drupal.org/files/issues/libraries-version-callback-reference-parameter-fix-2779591-3.patch"
       },
-      "drupal/linkchecker": {
-        "0": "https://www.drupal.org/files/issues/linkchecker-views-integration-965720-112.patch"
-      },
       "drupal/metatag": {
         "0": "https://www.drupal.org/files/issues/1970362-64-reroll-of-58.patch"
       } ,
@@ -261,9 +258,6 @@
       "drupal/pci_update": {
         "0": "https://www.drupal.org/files/issues/pci_update_password_field_0.patch"
       },
-      "drupal/redirect": {
-        "0": "https://www.drupal.org/files/issues/redirect.circular-loops.1796596-172.patch"
-      },
       "drupal/scheduler_workbench": {
         "0": "https://www.drupal.org/files/issues/scheduler_workbench-revision_publish-2048999-45.patch"
       },
@@ -275,9 +269,6 @@
       },
       "drupal/webform_clear": {
         "0": "https://www.drupal.org/files/issues/webform_clear-2250027-testfix-2.patch"
-      },
-      "drupal/workbench_moderation": {
-        "0": "https://www.drupal.org/files/issues/workbench_moderation-pathauto.patch"
       },
       "library/underscore": {
         "0": "https://www.drupal.org/files/issues/2235299-12.patch"
