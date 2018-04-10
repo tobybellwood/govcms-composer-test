@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "9a7d625e7ff608057fd2725c49ec2479",
+    "content-hash": "cbe418e9db5af34c24485fc4ec421faf",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -1454,17 +1454,17 @@
         },
         {
             "name": "drupal/ctools",
-            "version": "1.12.0",
+            "version": "1.14.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/ctools",
-                "reference": "7.x-1.12"
+                "reference": "7.x-1.14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ctools-7.x-1.12.zip",
-                "reference": "7.x-1.12",
-                "shasum": "e2508424032a239c6a56dc9b2d666ad3cd7abf4e"
+                "url": "https://ftp.drupal.org/files/projects/ctools-7.x-1.14.zip",
+                "reference": "7.x-1.14",
+                "shasum": "866b4a5eb5f6085e80aff155ec7a2cd476eea117"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -1481,16 +1481,13 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.12",
-                    "datestamp": "1517704084",
+                    "version": "7.x-1.14",
+                    "datestamp": "1519455784",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
                     }
-                },
-                "patches_applied": [
-                    "https://www.drupal.org/files/issues/ctools-2828620-60-View-pane-rendering-misuses-cache-revert-1910608.patch"
-                ]
+                }
             },
             "notification-url": "https://packages.drupal.org/7/downloads",
             "license": [
@@ -3190,17 +3187,17 @@
         },
         {
             "name": "drupal/file_entity",
-            "version": "2.18.0",
+            "version": "2.19.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/file_entity",
-                "reference": "7.x-2.18"
+                "reference": "7.x-2.19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/file_entity-7.x-2.18.zip",
-                "reference": "7.x-2.18",
-                "shasum": "97ecf0b13960a2627774a032b1b9eb398ebc0e3b"
+                "url": "https://ftp.drupal.org/files/projects/file_entity-7.x-2.19.zip",
+                "reference": "7.x-2.19",
+                "shasum": "c1143d4ddd93abe5c0793625638195c5d93c66f6"
             },
             "require": {
                 "drupal/ctools": "*",
@@ -3216,7 +3213,7 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.18",
+                    "version": "7.x-2.19",
                     "datestamp": "1523302380",
                     "security-coverage": {
                         "status": "not-covered",
@@ -5904,7 +5901,7 @@
         },
         {
             "name": "drupal/page_manager",
-            "version": "1.12.0",
+            "version": "1.14.0",
             "require": {
                 "drupal/ctools": "self.version",
                 "drupal/drupal": "~7.0"
@@ -5915,8 +5912,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.12",
-                    "datestamp": "1517704084",
+                    "version": "7.x-1.14",
+                    "datestamp": "1519455784",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
