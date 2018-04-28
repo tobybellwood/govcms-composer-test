@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4ad24ef69c51a52ae5cd6dcee7e1255c",
+    "content-hash": "271da5c8d20192508bb04b1499dfe6c5",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -3441,29 +3441,30 @@
         },
         {
             "name": "drupal/funnelback",
-            "version": "1.0.0-beta3",
+            "version": "4.0.0-beta2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/funnelback",
-                "reference": "7.x-1.0-beta3"
+                "reference": "7.x-4.0-beta2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/funnelback-7.x-1.0-beta3.zip",
-                "reference": "7.x-1.0-beta3",
-                "shasum": "3c56c38b64277596debfc80563ef7edc52db05f2"
+                "url": "https://ftp.drupal.org/files/projects/funnelback-7.x-4.0-beta2.zip",
+                "reference": "7.x-4.0-beta2",
+                "shasum": "898e4796bac353f0f9f23193c54c9650e1f4485a"
             },
             "require": {
-                "drupal/drupal": "~7.0"
+                "drupal/drupal": "~7.0",
+                "drupal/entity": "*"
             },
             "type": "drupal-module",
             "extra": {
                 "branch-alias": {
-                    "dev-1.x": "1.x-dev"
+                    "dev-4.x": "4.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.0-beta3",
-                    "datestamp": "1373335581",
+                    "version": "7.x-4.0-beta2",
+                    "datestamp": "1524100984",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"
@@ -3500,7 +3501,7 @@
                     "homepage": "https://www.drupal.org/user/31698"
                 }
             ],
-            "description": "Provides search integration with a Funnelback XML search interface",
+            "description": "Provides search integration with a Funnelback search interface",
             "homepage": "https://www.drupal.org/project/funnelback",
             "support": {
                 "source": "http://cgit.drupalcode.org/funnelback"
