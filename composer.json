@@ -13,7 +13,7 @@
 		}
 	],
 	"require": {
-		"ckeditor/ckeditor": "4.9.1",
+		"ckeditor/ckeditor": "4.9.2",
 		"composer/installers": "^1.5",
 		"cweagans/composer-patches": "~1.0",
 		"drupal-composer/preserve-paths": "0.1.*",
