@@ -121,6 +121,7 @@ projects[libraries][version] = 2.3
 projects[link][type] = module
 projects[link][version] = 1.4
 projects[linkchecker][type] = module
+projects[linkchecker][patch][] = https://www.drupal.org/files/issues/linkchecker-views-integration-965720-112.patch
 projects[linkchecker][version] = 1.2
 projects[linkit][type] = module
 projects[linkit][version] = 3.5

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7ebf9c9859a4076e81a30687206a0fe9",
+    "content-hash": "2965b6d0c8ac518bcf68c323690a19dc",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -4481,7 +4481,10 @@
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
                     }
-                }
+                },
+                "patches_applied": [
+                    "https://www.drupal.org/files/issues/linkchecker-views-integration-965720-112.patch"
+                ]
             },
             "notification-url": "https://packages.drupal.org/7/downloads",
             "license": [
