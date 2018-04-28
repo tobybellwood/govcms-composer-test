@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4647248674ac6eed6d40d0cc72f5fe91",
+    "content-hash": "4213402fcd474b203c0f7c95d33030d7",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
-            "version": "4.9.1",
+            "version": "4.9.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ckeditor/ckeditor-releases.git",
-                "reference": "e0b461194197838f9ee52f11b2b469dde9e1b8f8"
+                "reference": "993eb4fba6a70545f6c50da1988d39ecd9cf47a3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ckeditor/ckeditor-releases/zipball/e0b461194197838f9ee52f11b2b469dde9e1b8f8",
-                "reference": "e0b461194197838f9ee52f11b2b469dde9e1b8f8",
+                "url": "https://api.github.com/repos/ckeditor/ckeditor-releases/zipball/993eb4fba6a70545f6c50da1988d39ecd9cf47a3",
+                "reference": "993eb4fba6a70545f6c50da1988d39ecd9cf47a3",
                 "shasum": ""
             },
             "type": "library",
@@ -45,7 +45,7 @@
                 "text",
                 "wysiwyg"
             ],
-            "time": "2018-03-26T17:19:45+00:00"
+            "time": "2018-04-18T09:04:40+00:00"
         },
         {
             "name": "composer/installers",
@@ -2097,7 +2097,7 @@
                 },
                 "drupal": {
                     "version": "7.58",
-                    "datestamp": "1522264797",
+                    "datestamp": "1524674011",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2165,10 +2165,6 @@
                 {
                     "name": "lauriii",
                     "homepage": "https://www.drupal.org/user/1078742"
-                },
-                {
-                    "name": "mlhess",
-                    "homepage": "https://www.drupal.org/user/102818"
                 },
                 {
                     "name": "plach",
@@ -4898,7 +4894,7 @@
                 },
                 "drupal": {
                     "version": "7.x-2.16",
-                    "datestamp": "1523731080",
+                    "datestamp": "1524679647",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4987,7 +4983,7 @@
                 },
                 "drupal": {
                     "version": "7.x-2.16",
-                    "datestamp": "1523731080",
+                    "datestamp": "1524679647",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -9206,7 +9202,7 @@
                 },
                 "drupal": {
                     "version": "7.x-4.16",
-                    "datestamp": "1510950320",
+                    "datestamp": "1524581885",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
