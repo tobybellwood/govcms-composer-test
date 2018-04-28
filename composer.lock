@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4213402fcd474b203c0f7c95d33030d7",
+    "content-hash": "4ad24ef69c51a52ae5cd6dcee7e1255c",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -9650,17 +9650,17 @@
         },
         {
             "name": "drupal/wysiwyg",
-            "version": "2.4.0",
+            "version": "2.5.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/wysiwyg",
-                "reference": "7.x-2.4"
+                "reference": "7.x-2.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/wysiwyg-7.x-2.4.zip",
-                "reference": "7.x-2.4",
-                "shasum": "aa3b0666b3763cd50c174f9be95374b1067b2457"
+                "url": "https://ftp.drupal.org/files/projects/wysiwyg-7.x-2.5.zip",
+                "reference": "7.x-2.5",
+                "shasum": "7d465aa61f404617c0f74a57a002cb26eebbefc3"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -9671,7 +9671,7 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.4",
+                    "version": "7.x-2.5",
                     "datestamp": "1524085380",
                     "security-coverage": {
                         "status": "covered",
