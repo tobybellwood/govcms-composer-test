@@ -99,7 +99,6 @@ projects[google_analytics_reports][version] = 3.1
 projects[google_chart_tools][type] = module
 projects[google_chart_tools][patch][] = https://www.drupal.org/files/issues/google-chart-tools-ajax-1613258-11-7.x-1.4.patch
 projects[google_chart_tools][version] = 1.4
-projects[govcms][version] = 2.19
 projects[govcms_ckan][type] = module
 projects[govcms_ckan][version] = 1.3
 projects[govcms_dlm][type] = module
