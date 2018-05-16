@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8a3a86983fbe6eed8f1921a634e0a646",
+    "content-hash": "eea8104400a8922349fb9165a716455f",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -4312,17 +4312,17 @@
         },
         {
             "name": "drupal/link",
-            "version": "1.4.0",
+            "version": "1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/link",
-                "reference": "7.x-1.4"
+                "reference": "7.x-1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/link-7.x-1.4.zip",
-                "reference": "7.x-1.4",
-                "shasum": "e83d70c5598194125fa2ccfa2c638a238aef812a"
+                "url": "https://ftp.drupal.org/files/projects/link-7.x-1.5.zip",
+                "reference": "7.x-1.5",
+                "shasum": "467853128988875d0e8e52874dbbef3cfac67a5f"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -4333,8 +4333,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.4",
-                    "datestamp": "1452830639",
+                    "version": "7.x-1.5",
+                    "datestamp": "1526190484",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6118,6 +6118,10 @@
                 "GPL-2.0-or-later"
             ],
             "authors": [
+                {
+                    "name": "banviktor",
+                    "homepage": "https://www.drupal.org/user/3176333"
+                },
                 {
                     "name": "greggles",
                     "homepage": "https://www.drupal.org/user/36762"
