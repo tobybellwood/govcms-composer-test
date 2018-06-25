@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9489c70b49d23ebc5d7342a1091eaf9d",
+    "content-hash": "13d53233b962e16936b55e30db45cb88",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -3213,7 +3213,7 @@
                 },
                 "drupal": {
                     "version": "7.x-2.21",
-                    "datestamp": "1525293784",
+                    "datestamp": "1528996424",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"
@@ -3272,6 +3272,10 @@
                 {
                     "name": "dsnopek",
                     "homepage": "https://www.drupal.org/user/266527"
+                },
+                {
+                    "name": "dsutter",
+                    "homepage": "https://www.drupal.org/user/3357810"
                 },
                 {
                     "name": "effulgentsia",
@@ -5405,17 +5409,17 @@
         },
         {
             "name": "drupal/minisite",
-            "version": "1.0.0-alpha3",
+            "version": "1.0.0-alpha4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/minisite",
-                "reference": "7.x-1.0-alpha3"
+                "reference": "7.x-1.0-alpha4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/minisite-7.x-1.0-alpha3.zip",
-                "reference": "7.x-1.0-alpha3",
-                "shasum": "2f32e85bd3aba1353dbdeeb84e85d7e6519b2829"
+                "url": "https://ftp.drupal.org/files/projects/minisite-7.x-1.0-alpha4.zip",
+                "reference": "7.x-1.0-alpha4",
+                "shasum": "69e35ee1e26f00e7848866b2dd28f774235ccea8"
             },
             "require": {
                 "drupal/drupal": "*"
@@ -5426,8 +5430,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.0-alpha3",
-                    "datestamp": "1486608484",
+                    "version": "7.x-1.0-alpha4",
+                    "datestamp": "1529897925",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"
@@ -7342,6 +7346,10 @@
                 "GPL-2.0-or-later"
             ],
             "authors": [
+                {
+                    "name": "borisson_",
+                    "homepage": "https://www.drupal.org/user/2393360"
+                },
                 {
                     "name": "drunken monkey",
                     "homepage": "https://www.drupal.org/user/205582"
@@ -9883,6 +9891,10 @@
                     "homepage": "https://www.drupal.org/user/279003"
                 },
                 {
+                    "name": "pifagor",
+                    "homepage": "https://www.drupal.org/user/2375692"
+                },
+                {
                     "name": "tadityar",
                     "homepage": "https://www.drupal.org/user/3094465"
                 },
@@ -10138,7 +10150,7 @@
             "version": "v2.8.3",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Modernizr/Modernizr.git",
+                "url": "git@github.com:Modernizr/Modernizr.git",
                 "reference": "d6bb30c0f12ebb3ddd01e90b0bf435e1c34e6f11"
             },
             "dist": {
@@ -10410,12 +10422,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/minkphp/Mink.git",
-                "reference": "04ab7af68536ac2c80fd6c08a6fd3620d3409891"
+                "reference": "d5ee350c40baff5f331a05ebdbe1927345c9ac8b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/minkphp/Mink/zipball/04ab7af68536ac2c80fd6c08a6fd3620d3409891",
-                "reference": "04ab7af68536ac2c80fd6c08a6fd3620d3409891",
+                "url": "https://api.github.com/repos/minkphp/Mink/zipball/d5ee350c40baff5f331a05ebdbe1927345c9ac8b",
+                "reference": "d5ee350c40baff5f331a05ebdbe1927345c9ac8b",
                 "shasum": ""
             },
             "require": {
@@ -10429,7 +10441,8 @@
                 "behat/mink-browserkit-driver": "extremely fast headless driver for Symfony\\Kernel-based apps (Sf2, Silex)",
                 "behat/mink-goutte-driver": "fast headless driver for any app without JS emulation",
                 "behat/mink-selenium2-driver": "slow, but JS-enabled driver for any app (requires Selenium2)",
-                "behat/mink-zombie-driver": "fast and JS-enabled headless driver for any app (requires node.js)"
+                "behat/mink-zombie-driver": "fast and JS-enabled headless driver for any app (requires node.js)",
+                "dmore/chrome-mink-driver": "fast and JS-enabled driver for any app (requires chromium or google chrome)"
             },
             "type": "library",
             "extra": {
@@ -10460,7 +10473,7 @@
                 "testing",
                 "web"
             ],
-            "time": "2018-01-07T17:25:05+00:00"
+            "time": "2018-06-24T20:08:51+00:00"
         },
         {
             "name": "behat/mink-browserkit-driver",
