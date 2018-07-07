@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f081e270fe284556c804c87a0a4aaeb6",
+    "content-hash": "ab07bfe3694a82da3551597b435ee108",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
-            "version": "4.9.2",
+            "version": "dev-full/stable",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ckeditor/ckeditor-releases.git",
-                "reference": "993eb4fba6a70545f6c50da1988d39ecd9cf47a3"
+                "reference": "ff7b827c0f2f4f3ff7463808f728867cc15aaae6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ckeditor/ckeditor-releases/zipball/993eb4fba6a70545f6c50da1988d39ecd9cf47a3",
-                "reference": "993eb4fba6a70545f6c50da1988d39ecd9cf47a3",
+                "url": "https://api.github.com/repos/ckeditor/ckeditor-releases/zipball/ff7b827c0f2f4f3ff7463808f728867cc15aaae6",
+                "reference": "ff7b827c0f2f4f3ff7463808f728867cc15aaae6",
                 "shasum": ""
             },
             "type": "library",
@@ -45,7 +45,7 @@
                 "text",
                 "wysiwyg"
             ],
-            "time": "2018-04-18T09:04:40+00:00"
+            "time": "2018-07-03T13:37:35+00:00"
         },
         {
             "name": "composer/installers",
@@ -10275,6 +10275,37 @@
                 "mailer"
             ],
             "time": "2017-09-30T22:39:41+00:00"
+        },
+        {
+            "name": "systemiksolutions/performx",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.org/systemiksolutions/openaccess-release.git",
+                "reference": "2de2c903441a75ba4e8e96328517607eac05eb1b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://bitbucket.org/systemiksolutions/openaccess-release/get/2de2c903441a75ba4e8e96328517607eac05eb1b.zip",
+                "reference": "2de2c903441a75ba4e8e96328517607eac05eb1b",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-only"
+            ],
+            "description": "This is a CKEditor plugin which adds three buttons: editor content templates, a library of accessible tables, and accessibility checking for editor content.",
+            "homepage": "http://www.systemiksolutions.com/technology/openaccess",
+            "keywords": [
+                "CKEditor",
+                "accessibility",
+                "openaccess",
+                "performx",
+                "plugin",
+                "template"
+            ],
+            "time": "2018-06-22T16:21:44+00:00"
         }
     ],
     "packages-dev": [
@@ -15305,7 +15336,8 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "drupal/token_tweaks": 20
+        "drupal/token_tweaks": 20,
+        "ckeditor/ckeditor": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
