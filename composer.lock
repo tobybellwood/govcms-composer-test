@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "13d53233b962e16936b55e30db45cb88",
+    "content-hash": "f081e270fe284556c804c87a0a4aaeb6",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -2190,17 +2190,17 @@
         },
         {
             "name": "drupal/ds",
-            "version": "2.15.0",
+            "version": "2.16.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/ds",
-                "reference": "7.x-2.15"
+                "reference": "7.x-2.16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/ds-7.x-2.15.zip",
-                "reference": "7.x-2.15",
-                "shasum": "d6ca6231da8fad56f1a3338496f1e4bd77706bf3"
+                "url": "https://ftp.drupal.org/files/projects/ds-7.x-2.16.zip",
+                "reference": "7.x-2.16",
+                "shasum": "1af4e6bc74c154d2fd4aabff991dafdc923098a1"
             },
             "require": {
                 "drupal/ctools": "*",
@@ -2215,7 +2215,7 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.15",
+                    "version": "7.x-2.16",
                     "datestamp": "1530614320",
                     "security-coverage": {
                         "status": "covered",
@@ -3182,17 +3182,17 @@
         },
         {
             "name": "drupal/file_entity",
-            "version": "2.21.0",
+            "version": "2.22.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/file_entity",
-                "reference": "7.x-2.21"
+                "reference": "7.x-2.22"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/file_entity-7.x-2.21.zip",
-                "reference": "7.x-2.21",
-                "shasum": "6c785f67ab0b0043c0f65fb0ef57cc6b667d93bd"
+                "url": "https://ftp.drupal.org/files/projects/file_entity-7.x-2.22.zip",
+                "reference": "7.x-2.22",
+                "shasum": "9e467d5f16e834bf633ef530667a4f7c9a51ccc0"
             },
             "require": {
                 "drupal/ctools": "*",
@@ -3208,7 +3208,7 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.21",
+                    "version": "7.x-2.22",
                     "datestamp": "1528996424",
                     "security-coverage": {
                         "status": "not-covered",
@@ -4000,17 +4000,17 @@
         },
         {
             "name": "drupal/hierarchical_select",
-            "version": "3.0.0-beta8",
+            "version": "3.0.0-beta9",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/hierarchical_select",
-                "reference": "7.x-3.0-beta8"
+                "reference": "7.x-3.0-beta9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/hierarchical_select-7.x-3.0-beta8.zip",
-                "reference": "7.x-3.0-beta8",
-                "shasum": "6fcc35f31caf8bf6d2badf6feeb0eeae3326ec4e"
+                "url": "https://ftp.drupal.org/files/projects/hierarchical_select-7.x-3.0-beta9.zip",
+                "reference": "7.x-3.0-beta9",
+                "shasum": "3efa0a78592b8b0991825db6ea9afa2a86436ea1"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -4027,7 +4027,7 @@
                     "dev-3.x": "3.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-3.0-beta8",
+                    "version": "7.x-3.0-beta9",
                     "datestamp": "1530242024",
                     "security-coverage": {
                         "status": "not-covered",
@@ -8537,17 +8537,17 @@
         },
         {
             "name": "drupal/username_enumeration_prevention",
-            "version": "1.2.0",
+            "version": "1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/username_enumeration_prevention",
-                "reference": "7.x-1.2"
+                "reference": "7.x-1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/username_enumeration_prevention-7.x-1.2.zip",
-                "reference": "7.x-1.2",
-                "shasum": "63566aeb39aec195db93701e2ce73627ddec76d7"
+                "url": "https://ftp.drupal.org/files/projects/username_enumeration_prevention-7.x-1.3.zip",
+                "reference": "7.x-1.3",
+                "shasum": "689c47646565ad91419a1c3b5673b3572a90e8dc"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -8558,7 +8558,7 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.2",
+                    "version": "7.x-1.3",
                     "datestamp": "1530893021",
                     "security-coverage": {
                         "status": "covered",
@@ -8592,7 +8592,7 @@
                     "homepage": "https://www.drupal.org/user/13896"
                 }
             ],
-            "description": "Removes the error message produced, from the forgot password form, when an incorrect user has been supplied.",
+            "description": "Prevents username enumeration on password reset and user pages.",
             "homepage": "https://www.drupal.org/project/username_enumeration_prevention",
             "support": {
                 "source": "http://cgit.drupalcode.org/username_enumeration_prevention"
@@ -8651,17 +8651,17 @@
         },
         {
             "name": "drupal/uuid",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/uuid",
-                "reference": "7.x-1.0"
+                "reference": "7.x-1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/uuid-7.x-1.0.zip",
-                "reference": "7.x-1.0",
-                "shasum": "6badd2aa8b047edb7ef7c1568296482582782a59"
+                "url": "https://ftp.drupal.org/files/projects/uuid-7.x-1.1.zip",
+                "reference": "7.x-1.1",
+                "shasum": "5696fc43e412f39aaeb17a200940bd39bcaf72c7"
             },
             "require": {
                 "drupal/drupal": "*"
@@ -8678,7 +8678,7 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.0",
+                    "version": "7.x-1.1",
                     "datestamp": "1530724916",
                     "security-coverage": {
                         "status": "covered",
