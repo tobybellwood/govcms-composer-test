@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ab07bfe3694a82da3551597b435ee108",
+    "content-hash": "8465d38b33bf650619cf81f1e2e5a67c",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -3587,17 +3587,17 @@
         },
         {
             "name": "drupal/google_analytics",
-            "version": "2.4.0",
+            "version": "2.5.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/google_analytics",
-                "reference": "7.x-2.4"
+                "reference": "7.x-2.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/google_analytics-7.x-2.4.zip",
-                "reference": "7.x-2.4",
-                "shasum": "f45b6ce1afae9ded387e9e94bc0d959b442eae1f"
+                "url": "https://ftp.drupal.org/files/projects/google_analytics-7.x-2.5.zip",
+                "reference": "7.x-2.5",
+                "shasum": "00a5378b4e7ebe455474c2c2d524bf0e42420cec"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -3611,8 +3611,8 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.4",
-                    "datestamp": "1506373144",
+                    "version": "7.x-2.5",
+                    "datestamp": "1531469021",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4720,7 +4720,7 @@
                 },
                 "drupal": {
                     "version": "7.x-2.34",
-                    "datestamp": "1334082653",
+                    "datestamp": "1531385925",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4739,6 +4739,10 @@
                 {
                     "name": "Les Lim",
                     "homepage": "https://www.drupal.org/user/84263"
+                },
+                {
+                    "name": "Manuel Garcia",
+                    "homepage": "https://www.drupal.org/user/213194"
                 },
                 {
                     "name": "Nafes",
