@@ -86,7 +86,7 @@
 		"drupal/linkit_panel_pages": "2.0",
 		"drupal/login_destination": "1.4.0",
 		"drupal/login_security": "1.9",
-		"drupal/mailsystem": "2.34",
+		"drupal/mailsystem": "2.35.0",
 		"drupal/maintenance_mode_permissions": "1.0",
 		"drupal/media": "2.19.0",
 		"drupal/media_oembed": "2.7",
