@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8465d38b33bf650619cf81f1e2e5a67c",
+    "content-hash": "ded8914baf67fd26679d0f374350153b",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -775,7 +775,7 @@
                 },
                 "drupal": {
                     "version": "7.x-1.11",
-                    "datestamp": "1470638339",
+                    "datestamp": "1533832380",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3467,7 +3467,7 @@
                 },
                 "drupal": {
                     "version": "7.x-4.0-beta2",
-                    "datestamp": "1524100984",
+                    "datestamp": "1531811324",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"
@@ -4087,7 +4087,7 @@
                 },
                 "drupal": {
                     "version": "7.x-1.24",
-                    "datestamp": "1519706884",
+                    "datestamp": "1533849180",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4698,17 +4698,17 @@
         },
         {
             "name": "drupal/mailsystem",
-            "version": "2.34.0",
+            "version": "2.35.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/mailsystem",
-                "reference": "7.x-2.34"
+                "reference": "7.x-2.35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/mailsystem-7.x-2.34.zip",
-                "reference": "7.x-2.34",
-                "shasum": "ca0a12ac9653419b210565d63f7c4a934912d5b7"
+                "url": "https://ftp.drupal.org/files/projects/mailsystem-7.x-2.35.zip",
+                "reference": "7.x-2.35",
+                "shasum": "7f810cc872285471ab7ec4b7566329ca681c989f"
             },
             "require": {
                 "drupal/drupal": "*"
@@ -4719,7 +4719,7 @@
                     "dev-2.x": "2.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-2.34",
+                    "version": "7.x-2.35",
                     "datestamp": "1531385925",
                     "security-coverage": {
                         "status": "covered",
@@ -4847,7 +4847,7 @@
                 },
                 "drupal": {
                     "version": "7.x-2.19",
-                    "datestamp": "1524944353",
+                    "datestamp": "1534544281",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4936,7 +4936,7 @@
                 },
                 "drupal": {
                     "version": "7.x-2.19",
-                    "datestamp": "1524944353",
+                    "datestamp": "1534544281",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6958,6 +6958,10 @@
             ],
             "authors": [
                 {
+                    "name": "TR",
+                    "homepage": "https://www.drupal.org/user/202830"
+                },
+                {
                     "name": "fago",
                     "homepage": "https://www.drupal.org/user/16747"
                 },
@@ -8683,7 +8687,7 @@
                 },
                 "drupal": {
                     "version": "7.x-1.1",
-                    "datestamp": "1530724916",
+                    "datestamp": "1531990681",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -9858,7 +9862,7 @@
                 },
                 "drupal": {
                     "version": "7.x-2.3",
-                    "datestamp": "1464192286",
+                    "datestamp": "1531941024",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -10158,7 +10162,7 @@
             "version": "v2.8.3",
             "source": {
                 "type": "git",
-                "url": "git@github.com:Modernizr/Modernizr.git",
+                "url": "https://github.com/Modernizr/Modernizr.git",
                 "reference": "d6bb30c0f12ebb3ddd01e90b0bf435e1c34e6f11"
             },
             "dist": {
