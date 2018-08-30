@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d5f3bf6635cba2df071347744199cdfd",
+    "content-hash": "3c59a2ece0238bac3be54be09a3010a4",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -3444,17 +3444,17 @@
         },
         {
             "name": "drupal/funnelback",
-            "version": "4.0.0-beta2",
+            "version": "4.0.0-beta4",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/funnelback",
-                "reference": "7.x-4.0-beta2"
+                "reference": "7.x-4.0-beta4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/funnelback-7.x-4.0-beta2.zip",
-                "reference": "7.x-4.0-beta2",
-                "shasum": "898e4796bac353f0f9f23193c54c9650e1f4485a"
+                "url": "https://ftp.drupal.org/files/projects/funnelback-7.x-4.0-beta4.zip",
+                "reference": "7.x-4.0-beta4",
+                "shasum": "be3336a71d79f57ea8957abed640c43416d4caf0"
             },
             "require": {
                 "drupal/drupal": "~7.0",
@@ -3466,8 +3466,8 @@
                     "dev-4.x": "4.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-4.0-beta2",
-                    "datestamp": "1531811324",
+                    "version": "7.x-4.0-beta4",
+                    "datestamp": "1531868921",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"
@@ -10158,7 +10158,7 @@
             "version": "v2.8.3",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Modernizr/Modernizr.git",
+                "url": "git@github.com:Modernizr/Modernizr.git",
                 "reference": "d6bb30c0f12ebb3ddd01e90b0bf435e1c34e6f11"
             },
             "dist": {
