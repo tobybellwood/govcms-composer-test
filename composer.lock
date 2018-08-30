@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ded8914baf67fd26679d0f374350153b",
+    "content-hash": "d5f3bf6635cba2df071347744199cdfd",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -4065,17 +4065,17 @@
         },
         {
             "name": "drupal/honeypot",
-            "version": "1.24.0",
+            "version": "1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/honeypot",
-                "reference": "7.x-1.24"
+                "reference": "7.x-1.25"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/honeypot-7.x-1.24.zip",
-                "reference": "7.x-1.24",
-                "shasum": "a9b3bab6bf8a4d1677ecef6f63f859c8f3567f4d"
+                "url": "https://ftp.drupal.org/files/projects/honeypot-7.x-1.25.zip",
+                "reference": "7.x-1.25",
+                "shasum": "5fd4d11c9cdc4da3d305641ad2d23b921436c3f2"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -4086,7 +4086,7 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.24",
+                    "version": "7.x-1.25",
                     "datestamp": "1533849180",
                     "security-coverage": {
                         "status": "covered",
@@ -9889,10 +9889,6 @@
                 {
                     "name": "andrei.dincu",
                     "homepage": "https://www.drupal.org/user/2628879"
-                },
-                {
-                    "name": "earnie",
-                    "homepage": "https://www.drupal.org/user/86710"
                 },
                 {
                     "name": "juampynr",
