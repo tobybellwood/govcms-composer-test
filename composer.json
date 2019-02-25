@@ -190,7 +190,7 @@
 		"phing/phing": "^2.16",
 		"phploc/phploc": "^4.0",
 		"phpmd/phpmd": "^2.6",
-		"phpunit/phpunit": "^5.7",
+		"phpunit/phpunit": "^6.5",
 		"sebastian/phpcpd": "^3.0",
 		"squizlabs/php_codesniffer": "^2.9"
 	},
