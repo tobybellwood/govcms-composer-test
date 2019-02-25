@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "63916f0b5b08b2527fcea4dd10aa2422",
+    "content-hash": "aa59bc02260d2249089aa054f2602f55",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -4312,17 +4312,17 @@
         },
         {
             "name": "drupal/link",
-            "version": "1.5.0",
+            "version": "1.6.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/link",
-                "reference": "7.x-1.5"
+                "reference": "7.x-1.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/link-7.x-1.5.zip",
-                "reference": "7.x-1.5",
-                "shasum": "467853128988875d0e8e52874dbbef3cfac67a5f"
+                "url": "https://ftp.drupal.org/files/projects/link-7.x-1.6.zip",
+                "reference": "7.x-1.6",
+                "shasum": "21b822ab66cc9bd512c17cad4662a33ccd8d0135"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -4333,7 +4333,7 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.5",
+                    "version": "7.x-1.6",
                     "datestamp": "1550692505",
                     "security-coverage": {
                         "status": "covered",
