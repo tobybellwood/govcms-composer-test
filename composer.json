@@ -177,7 +177,7 @@
 		"npm-asset/chosen-js": "1.8.5",
 		"npm-asset/jquery-placeholder": "2.3.1",
 		"npm-asset/modernizr": "2.8.3",
-		"npm-asset/underscore": "1.8.3"
+		"npm-asset/underscore": "1.9.1"
 	},
 	"require-dev": {
 		"composer/composer": "^1.6",
