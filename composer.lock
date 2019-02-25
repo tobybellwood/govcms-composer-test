@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "63916f0b5b08b2527fcea4dd10aa2422",
+    "content-hash": "83004bec4d6fed282b831cf3057adcb9",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -6151,17 +6151,17 @@
         },
         {
             "name": "drupal/password_policy",
-            "version": "1.15.0",
+            "version": "1.16.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/password_policy",
-                "reference": "7.x-1.15"
+                "reference": "7.x-1.16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/password_policy-7.x-1.15.zip",
-                "reference": "7.x-1.15",
-                "shasum": "4660e4870b74f4f90d6f297f9c0a96722549bf06"
+                "url": "https://ftp.drupal.org/files/projects/password_policy-7.x-1.16.zip",
+                "reference": "7.x-1.16",
+                "shasum": "e9f3a85ae87ae5fc0b6f11c197bc773b83fcac3e"
             },
             "require": {
                 "drupal/drupal": "~7.0"
@@ -6172,8 +6172,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.15",
-                    "datestamp": "1544039299",
+                    "version": "7.x-1.16",
+                    "datestamp": "1544086387",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
