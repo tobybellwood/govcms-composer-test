@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "63916f0b5b08b2527fcea4dd10aa2422",
+    "content-hash": "0214c56a53d5273d405a1c36e3c197be",
     "packages": [
         {
             "name": "ckeditor/ckeditor",
@@ -3392,17 +3392,17 @@
         },
         {
             "name": "drupal/focal_point",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/focal_point",
-                "reference": "7.x-1.1"
+                "reference": "7.x-1.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/focal_point-7.x-1.1.zip",
-                "reference": "7.x-1.1",
-                "shasum": "385fee76cfdaf2fdcbc90df1a729e4db32f67028"
+                "url": "https://ftp.drupal.org/files/projects/focal_point-7.x-1.2.zip",
+                "reference": "7.x-1.2",
+                "shasum": "c50edd820fd5b539ba43717dd80e805cbbefb657"
             },
             "require": {
                 "drupal/drupal": "*",
@@ -3414,7 +3414,7 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "7.x-1.1",
+                    "version": "7.x-1.2",
                     "datestamp": "1550087167",
                     "security-coverage": {
                         "status": "covered",
