@@ -156,7 +156,7 @@
 		"drupal/viewfield": "2.1.0",
 		"drupal/views": "3.20.0",
 		"drupal/views_bulk_operations": "3.5.0",
-		"drupal/views_datasource": "1.0-alpha2",
+		"drupal/views_datasource": "1.0.0-alpha3",
 		"drupal/webform": "4.17.0",
 		"drupal/webform_clear": "2.0",
 		"drupal/webform_html_textarea": "1.4",
