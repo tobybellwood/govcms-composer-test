@@ -29,7 +29,7 @@
 		"drupal-composer/preserve-paths": "0.1.*",
 		"drupal/accessible_forms": "1.0.0-alpha2",
 		"drupal/acquia_connector": "3.2",
-		"drupal/addressfield": "1.2.0",
+		"drupal/addressfield": "1.3.0",
 		"drupal/admin_views": "1.6",
 		"drupal/agls": "1.0-beta3",
 		"drupal/bean": "1.13.0",
