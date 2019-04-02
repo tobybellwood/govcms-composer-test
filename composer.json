@@ -157,7 +157,7 @@
 		"drupal/views": "3.20.0",
 		"drupal/views_bulk_operations": "3.5.0",
 		"drupal/views_datasource": "1.0.0-alpha3",
-		"drupal/webform": "4.17.0",
+		"drupal/webform": "4.19.0",
 		"drupal/webform_clear": "2.0",
 		"drupal/webform_html_textarea": "1.4",
 		"drupal/webform_phone": "1.23.0",
