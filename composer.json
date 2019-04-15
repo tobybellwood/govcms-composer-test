@@ -128,7 +128,7 @@
 		"drupal/search_api_db": "1.6",
 		"drupal/search_api_page": "1.4",
 		"drupal/search_api_solr": "1.14.0",
-		"drupal/seckit": "1.9",
+		"drupal/seckit": "1.10.0",
 		"drupal/service_links": "2.3",
 		"drupal/services": "3.21.0",
 		"drupal/services_views": "1.3.0",
