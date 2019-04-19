@@ -125,7 +125,7 @@
 		"drupal/search404": "1.6",
 		"drupal/search_api": "1.26.0",
 		"drupal/search_api_acquia": "2.4.0",
-		"drupal/search_api_db": "1.6",
+		"drupal/search_api_db": "1.7.0",
 		"drupal/search_api_page": "1.4",
 		"drupal/search_api_solr": "1.14.0",
 		"drupal/seckit": "1.10.0",
